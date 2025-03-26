@@ -142,7 +142,7 @@ random_policy = algos.random_policy()
 # visualize_policy(env,qlearning_policy)
 
 
-"trying out some shit"
+"trying out some stuff"
 #Navigating in the env
 # pol = [0, 3, 1, 1, 3, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1]
 # for i in range(100):
